@@ -1,8 +1,10 @@
 <h1 align="center">Hi , I'm KHUSHI JAIN <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<p align="center">
  <a href="https://github.com/khushijain3103"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Engineer+in+the+making;DS%20|%20Algo%20|%20Web+Dev%20Enthusiast;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+	</p>
  
- <p align="center"> <img src="https://gpvc.arturio.dev/tanishchugh01" alt="candida18" /> </p>
+ <p align="center"> <img src="https://gpvc.arturio.dev/khushijain3103" alt="candida18" > </p>
 
  <br>
 
