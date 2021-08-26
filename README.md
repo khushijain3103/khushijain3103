@@ -7,9 +7,9 @@
  <p align="center"> <img src="https://gpvc.arturio.dev/khushijain3103" alt="candida18" > </p>
 
  <br>
-
+<p  align="center"> 
 <img src="https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif">
-
+</p>
 <br>
 <br>
 
