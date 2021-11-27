@@ -53,9 +53,9 @@
 <h3> 👩‍🦰 &nbsp;About Me </h3>
 
 - 😄 Pronouns: She/Her/Hers 
-- 🔭 I’m currently working on: Netflix clone Project
+- 🔭 I’m currently working on: MERN STACK
 - 💕 My favorite language: C++
-- 🌱 I’m currently learning: Frontend Development
+- 🌱 I’m currently learning: Web Development
 - 💬 Ask me about: anything, I am happy to help
 - 🌍 I support: Healthy lifestyle , good working enviroment.
 - 💜 Interests: travel, googling , dancing , painting .
